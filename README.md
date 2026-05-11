@@ -2,6 +2,10 @@
 
 Godot Engine を用いて制作した、2D横スクロールアクションゲームです。
 
+# スクリーンショット
+
+![Main Menu](./Mainmenu.png)
+
 ## ダウンロード
 
 https://github.com/makino-yuto/pixel-adventure/releases/tag/v2.2
