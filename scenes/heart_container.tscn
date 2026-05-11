@@ -1,0 +1,13 @@
+[gd_scene load_steps=3 format=3 uid="uid://b4y0iort1067s"]
+
+[ext_resource type="Script" uid="uid://cs0lj1816kvqm" path="res://heart_container.gd" id="1_jqfdb"]
+[ext_resource type="Texture2D" uid="uid://ciw6e4xwlnrdd" path="res://assets/sprites/mark_heart_red.png" id="2_srcrn"]
+
+[node name="HeartContainer" type="Node2D"]
+script = ExtResource("1_jqfdb")
+
+[node name="TextureRect" type="TextureRect" parent="."]
+offset_right = 500.0
+offset_bottom = 428.0
+scale = Vector2(0.03, 0.03)
+texture = ExtResource("2_srcrn")

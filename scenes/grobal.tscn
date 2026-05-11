@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://c0i0hf6j4ssmc"]
+
+[ext_resource type="Script" uid="uid://c056aqxpw6013" path="res://global.gd" id="1_n4mwn"]
+
+[node name="Grobal" type="Node"]
+script = ExtResource("1_n4mwn")
